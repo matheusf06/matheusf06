@@ -2,6 +2,7 @@
 
 Me chamo Matheus, sou formado em Ciências da Computação e atualmente sou aluno do Fullstack Master DevPleno.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
