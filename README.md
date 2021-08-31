@@ -1,7 +1,6 @@
-### Hi there 👋
+### Oi 👋
 
-<!--
-**matheusf06/matheusf06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Matheus, sou formado em Ciências da Computação e atualmente sou aluno do Fullstack Master DevPleno.
 
 Here are some ideas to get you started:
 
