@@ -3,8 +3,7 @@
 Me chamo Matheus, sou formado em Ciências da Computação e atualmente sou aluno do Fullstack Master DevPleno.
 
 <div>
-  <a href="https://github.com/matheusf06">
-   ![Matheusf06's github stats](https://github-readme-stats.vercel.app/api?username=matheusf06&show_icons=true&theme=synthwave)
+  ![Matheusf06's github stats](https://github-readme-stats.vercel.app/api?username=matheusf06&show_icons=true&theme=synthwave)
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusf06&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 <div style="display: inline_block">
