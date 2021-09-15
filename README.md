@@ -1,6 +1,6 @@
 ### Oi 👋
 
-Me chamo Matheus, sou formado em Ciências da Computação e atualmente sou aluno do Fullstack Master DevPleno.
+Me chamo Matheus, sou formado em Ciências da Computação e atualmente sou aluno na DIO (Digital Innovation One) e no Fullstack Master DevPleno.
 
 <div style="display: inline_block">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusf06&show_icons=true&theme=synthwave"/>
